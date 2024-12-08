@@ -1,0 +1,14 @@
+C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\Zombifalanfilanbirşeyler\Zombifalanfilanbirşeyler\bin\Debug\net6.0\Zombifalanfilanbirşeyler.exe
+C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\Zombifalanfilanbirşeyler\Zombifalanfilanbirşeyler\bin\Debug\net6.0\Zombifalanfilanbirşeyler.deps.json
+C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\Zombifalanfilanbirşeyler\Zombifalanfilanbirşeyler\bin\Debug\net6.0\Zombifalanfilanbirşeyler.runtimeconfig.json
+C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\Zombifalanfilanbirşeyler\Zombifalanfilanbirşeyler\bin\Debug\net6.0\Zombifalanfilanbirşeyler.dll
+C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\Zombifalanfilanbirşeyler\Zombifalanfilanbirşeyler\bin\Debug\net6.0\Zombifalanfilanbirşeyler.pdb
+C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\Zombifalanfilanbirşeyler\Zombifalanfilanbirşeyler\obj\Debug\net6.0\Zombifalanfilanbirşeyler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\Zombifalanfilanbirşeyler\Zombifalanfilanbirşeyler\obj\Debug\net6.0\Zombifalanfilanbirşeyler.AssemblyInfoInputs.cache
+C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\Zombifalanfilanbirşeyler\Zombifalanfilanbirşeyler\obj\Debug\net6.0\Zombifalanfilanbirşeyler.AssemblyInfo.cs
+C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\Zombifalanfilanbirşeyler\Zombifalanfilanbirşeyler\obj\Debug\net6.0\Zombifalanfilanbirşeyler.csproj.CoreCompileInputs.cache
+C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\Zombifalanfilanbirşeyler\Zombifalanfilanbirşeyler\obj\Debug\net6.0\Zombifalanfilanbirşeyler.dll
+C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\Zombifalanfilanbirşeyler\Zombifalanfilanbirşeyler\obj\Debug\net6.0\refint\Zombifalanfilanbirşeyler.dll
+C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\Zombifalanfilanbirşeyler\Zombifalanfilanbirşeyler\obj\Debug\net6.0\Zombifalanfilanbirşeyler.pdb
+C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\Zombifalanfilanbirşeyler\Zombifalanfilanbirşeyler\obj\Debug\net6.0\Zombifalanfilanbirşeyler.genruntimeconfig.cache
+C:\Users\betul\OneDrive\Masaüstü\Yeni klasör (2)\Zombifalanfilanbirşeyler\Zombifalanfilanbirşeyler\obj\Debug\net6.0\ref\Zombifalanfilanbirşeyler.dll
